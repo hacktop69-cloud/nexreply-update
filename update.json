@@ -3,7 +3,7 @@
   "versionName": "1.0",
   "downloadUrl": "https://github.com/hacktop69-cloud/nexreply-update/releases/download/v1.0/app.apk",
   "updateMessage": "NexReply-এর নতুন ভার্সন এসেছে!",
-  "showSupportButtons": true,
+  "showSupportButtons": false,
   "supportButtonText": "Developer Contact",
   "supportButtonUrl": "https://t.me/Naeem_mobs"
 }
