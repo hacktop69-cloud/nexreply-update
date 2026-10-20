@@ -3,7 +3,7 @@
   "versionName": "1.1",
   "downloadUrl": "আপনার_এপিকে_ডাউনলোড_লিংক",
   "updateMessage": "NexReply-এর নতুন ভার্সন এসেছে! এখনই আপডেট করে নিন।",
-  "showSupportButtons": false,
+  "showSupportButtons": true,
   "supportButtonText": "Developer Contact",
   "supportButtonUrl": "https://t.me/Naeem_mobs"
 }
